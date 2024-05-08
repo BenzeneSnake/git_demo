@@ -12,6 +12,7 @@ public class Main {
             System.out.println("i = " + i);
             System.out.println("second commit");
             System.out.println("hot-fixed");
+            System.out.println("與hot-fixed產生衝突:master test");
         }
     }
 }
