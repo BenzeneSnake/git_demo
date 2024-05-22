@@ -3,5 +3,8 @@ public class git_test1 {
         System.out.print("test git add");
         System.out.print("test merge1");
         System.out.print("test merge conflict");
+        System.out.print("test rebase 1");
+        System.out.print("test rebase 2");
+        System.out.print("test rebase 3");
     }
 }
