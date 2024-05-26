@@ -15,6 +15,7 @@ public class Main {
             System.out.println("與hot-fixed產生衝突:master test");
             System.out.println("hot-fixed test conflict");
             System.out.println("test intelliJ");
+            System.out.println("test rebase merge");
         }
     }
 }
