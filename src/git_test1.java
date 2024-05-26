@@ -10,5 +10,6 @@ public class git_test1 {
         System.out.print("test rebase intelliJ 2");
         System.out.print("test rebase intelliJ 3");
         System.out.print("test rebase 4");
+        System.out.print("test");
     }
 }
