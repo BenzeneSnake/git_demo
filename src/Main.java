@@ -17,6 +17,7 @@ public class Main {
             System.out.println("test intelliJ");
             System.out.println("test rebase merge master");
              System.out.println("test git fetch");
+            //==test cherry pick
         }
     }
 }
