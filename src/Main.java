@@ -16,6 +16,7 @@ public class Main {
             System.out.println("hot-fixed test conflict");
             System.out.println("test intelliJ");
             System.out.println("test rebase merge master");
+             System.out.println("test git fetch");
         }
     }
 }
