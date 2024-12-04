@@ -18,6 +18,7 @@ public class Main {
             System.out.println("test rebase merge master");
              System.out.println("test git fetch");
             //==test cherry pick
+            System.out.println("member1修改文件");
         }
     }
 }
