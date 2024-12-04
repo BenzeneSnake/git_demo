@@ -8,5 +8,7 @@ public class git_test1 {
         System.out.print("Update by Developer A");
         System.out.print("Update by Developer A");
         System.out.print("Update by Developer B");
+        System.out.print("Update by Developer B");
+        System.out.print("Update by Developer A");
     }
 }
