@@ -7,5 +7,6 @@ public class git_test1 {
         System.out.print("eclipse main 測試4");
         System.out.print("Update by Developer A");
         System.out.print("Update by Developer A");
+        System.out.print("Update by Developer B");
     }
 }
